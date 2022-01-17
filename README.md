@@ -60,7 +60,7 @@ under docs, you can find various documents including an UMl model of the model c
 ### Prerequisites
 - Install Python3
 ```
-  sudo apt update && sudo apt install python3 && sudo apt install pip3` (Ubuntu)```
+  sudo apt update && sudo apt install python3 && sudo apt install pip3` (Ubuntu)
  ```
 ### install FreeTakServer
 Since version 0.8, FTS supports Pip installation, manual installation can be done with some modifications of the import paths, however we don't support it
